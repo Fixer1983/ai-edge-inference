@@ -1,2 +1,3 @@
 Robust Activity at 2023-01-03T12:03:36: Update README with new performance metrics
 Robust Activity at 2023-01-03T14:53:29: Benchmark inference latency across devices
+Robust Activity at 2023-01-03T15:19:00: Add support for multi-GPU training
