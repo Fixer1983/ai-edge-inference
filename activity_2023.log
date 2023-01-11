@@ -3,3 +3,4 @@
 2023 Activity at 2023-01-10T11:15:17: Add support for multi-GPU training
 2023 Activity at 2023-01-11T13:01:24: Update README with new performance metrics
 2023 Activity at 2023-01-11T11:03:16: Fix race condition in data pipeline
+2023 Activity at 2023-01-11T15:07:28: Benchmark inference latency across devices
