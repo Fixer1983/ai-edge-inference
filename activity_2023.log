@@ -5,3 +5,4 @@
 2023 Activity at 2023-01-11T11:03:16: Fix race condition in data pipeline
 2023 Activity at 2023-01-11T15:07:28: Benchmark inference latency across devices
 2023 Activity at 2023-01-11T15:19:17: Fix bug in loss function calculation
+2023 Activity at 2023-01-13T19:45:28: Add support for transformer-based models
