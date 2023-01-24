@@ -29,3 +29,4 @@ Robust Activity at 2023-01-24T14:29:13: Add support for transformer-based models
 Robust Activity at 2023-01-24T13:40:16: Sync with upstream repository changes
 Robust Activity at 2023-01-24T16:59:04: Clean up unused variables and functions
 Robust Activity at 2023-01-24T15:51:41: Clean up unused variables and functions
+Robust Activity at 2023-01-24T14:24:39: Implement early stopping in training loop
