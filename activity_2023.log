@@ -30,3 +30,4 @@
 2023 Activity at 2023-01-26T17:59:40: Optimize GPU memory allocation
 2023 Activity at 2023-01-26T12:25:06: Initial prototype for feature extraction
 2023 Activity at 2023-01-26T12:29:53: Fix bug in loss function calculation
+2023 Activity at 2023-01-26T14:41:34: Add support for transformer-based models
