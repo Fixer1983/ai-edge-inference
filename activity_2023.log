@@ -52,3 +52,4 @@
 2023 Activity at 2023-01-31T09:30:58: Add support for transformer-based models
 2023 Activity at 2023-01-31T09:27:28: Improve model serialization and loading
 2023 Activity at 2023-01-31T11:44:14: Improve documentation for API endpoints
+2023 Activity at 2023-01-31T13:02:00: Optimize GPU memory allocation
