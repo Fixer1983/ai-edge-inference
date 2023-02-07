@@ -91,3 +91,4 @@
 2023 Activity at 2023-02-07T17:40:47: Add unit tests for core modules
 2023 Activity at 2023-02-07T14:49:39: Improve documentation for API endpoints
 2023 Activity at 2023-02-07T14:49:14: Improve documentation for API endpoints
+2023 Activity at 2023-02-07T10:53:40: Implement early stopping in training loop
