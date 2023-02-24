@@ -72,3 +72,4 @@ Robust Activity at 2023-02-22T17:49:39: Update dependencies to latest stable ver
 Robust Activity at 2023-02-22T11:26:41: Merge feature branch into main
 Robust Activity at 2023-02-22T15:46:08: Benchmark inference latency across devices
 Robust Activity at 2023-02-22T13:28:35: Address code review feedback
+Robust Activity at 2023-02-24T11:36:56: Improve model serialization and loading
