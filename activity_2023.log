@@ -187,3 +187,4 @@
 2023 Activity at 2023-03-03T19:06:49: Update README with new performance metrics
 2023 Activity at 2023-03-03T17:03:35: Improve documentation for API endpoints
 2023 Activity at 2023-03-03T19:44:52: Fix race condition in data pipeline
+2023 Activity at 2023-03-03T19:11:41: Benchmark inference latency across devices
