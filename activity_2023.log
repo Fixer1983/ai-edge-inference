@@ -210,3 +210,4 @@
 2023 Activity at 2023-03-07T11:47:01: Benchmark inference latency across devices
 2023 Activity at 2023-03-08T13:20:36: Improve model serialization and loading
 2023 Activity at 2023-03-08T15:46:00: Add unit tests for core modules
+2023 Activity at 2023-03-08T13:39:27: Add unit tests for core modules
