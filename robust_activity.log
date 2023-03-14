@@ -112,3 +112,4 @@ Robust Activity at 2023-03-14T14:03:06: Benchmark inference latency across devic
 Robust Activity at 2023-03-14T13:04:10: Add support for transformer-based models
 Robust Activity at 2023-03-14T13:39:21: Add unit tests for core modules
 Robust Activity at 2023-03-14T10:52:38: Fix bug in loss function calculation
+Robust Activity at 2023-03-14T18:37:00: Clean up unused variables and functions
