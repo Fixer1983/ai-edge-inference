@@ -122,3 +122,4 @@ Robust Activity at 2023-03-21T17:55:09: Implement early stopping in training loo
 Robust Activity at 2023-03-21T10:20:47: Update dependencies to latest stable versions
 Robust Activity at 2023-03-21T18:22:11: Fix bug in loss function calculation
 Robust Activity at 2023-03-22T15:14:58: Update README with new performance metrics
+Robust Activity at 2023-03-22T18:54:09: Add unit tests for core modules
