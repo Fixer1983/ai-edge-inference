@@ -127,3 +127,4 @@ Robust Activity at 2023-03-23T09:00:28: Add support for multi-GPU training
 Robust Activity at 2023-03-23T17:38:20: Update README with new performance metrics
 Robust Activity at 2023-03-23T17:52:28: Fix bug in loss function calculation
 Robust Activity at 2023-03-23T12:09:28: Merge feature branch into main
+Robust Activity at 2023-03-23T16:43:44: Optimize GPU memory allocation
