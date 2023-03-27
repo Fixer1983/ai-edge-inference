@@ -129,3 +129,4 @@ Robust Activity at 2023-03-23T17:52:28: Fix bug in loss function calculation
 Robust Activity at 2023-03-23T12:09:28: Merge feature branch into main
 Robust Activity at 2023-03-23T16:43:44: Optimize GPU memory allocation
 Robust Activity at 2023-03-27T09:51:00: Add support for transformer-based models
+Robust Activity at 2023-03-27T13:32:44: Fix bug in loss function calculation
