@@ -135,3 +135,4 @@ Robust Activity at 2023-03-27T17:36:15: Improve model serialization and loading
 Robust Activity at 2023-03-27T13:47:01: Fix race condition in data pipeline
 Robust Activity at 2023-03-28T10:14:11: Refactor data loader for faster training
 Robust Activity at 2023-03-28T12:25:40: Fix bug in loss function calculation
+Robust Activity at 2023-03-30T13:08:25: Clean up unused variables and functions
