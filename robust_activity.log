@@ -164,3 +164,4 @@ Robust Activity at 2023-04-17T11:07:19: Initial prototype for feature extraction
 Robust Activity at 2023-04-17T18:33:29: Improve model serialization and loading
 Robust Activity at 2023-04-17T10:40:08: Implement early stopping in training loop
 Robust Activity at 2023-04-17T17:53:49: Enhance logging for debugging production issues
+Robust Activity at 2023-04-17T14:10:59: Clean up unused variables and functions
