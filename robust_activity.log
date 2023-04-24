@@ -173,3 +173,4 @@ Robust Activity at 2023-04-18T15:51:56: Clean up unused variables and functions
 Robust Activity at 2023-04-24T09:25:05: Improve model serialization and loading
 Robust Activity at 2023-04-24T17:17:27: Benchmark inference latency across devices
 Robust Activity at 2023-04-24T18:58:44: Merge feature branch into main
+Robust Activity at 2023-04-24T11:39:32: Optimize GPU memory allocation
