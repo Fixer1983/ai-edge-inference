@@ -171,3 +171,4 @@ Robust Activity at 2023-04-18T14:18:58: Address code review feedback
 Robust Activity at 2023-04-18T17:36:43: Enhance logging for debugging production issues
 Robust Activity at 2023-04-18T15:51:56: Clean up unused variables and functions
 Robust Activity at 2023-04-24T09:25:05: Improve model serialization and loading
+Robust Activity at 2023-04-24T17:17:27: Benchmark inference latency across devices
