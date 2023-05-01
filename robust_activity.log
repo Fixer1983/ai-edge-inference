@@ -198,3 +198,4 @@ Robust Activity at 2023-04-28T18:27:30: Implement early stopping in training loo
 Robust Activity at 2023-04-28T11:47:56: Implement early stopping in training loop
 Robust Activity at 2023-05-01T15:14:14: Improve model serialization and loading
 Robust Activity at 2023-05-01T18:44:08: Benchmark inference latency across devices
+Robust Activity at 2023-05-01T15:11:56: Fix race condition in data pipeline
