@@ -233,3 +233,4 @@ Robust Activity at 2023-06-01T09:54:47: Fix bug in loss function calculation
 Robust Activity at 2023-06-01T12:40:16: Merge feature branch into main
 Robust Activity at 2023-06-01T10:58:59: Add support for multi-GPU training
 Robust Activity at 2023-06-02T14:16:11: Refactor data loader for faster training
+Robust Activity at 2023-06-02T13:13:22: Update README with new performance metrics
