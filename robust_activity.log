@@ -321,3 +321,4 @@ Robust Activity at 2023-07-17T11:05:23: Merge feature branch into main
 Robust Activity at 2023-07-17T18:06:47: Initial prototype for feature extraction
 Robust Activity at 2023-07-17T11:39:39: Add unit tests for core modules
 Robust Activity at 2023-07-17T11:04:27: Benchmark inference latency across devices
+Robust Activity at 2023-07-20T14:46:57: Optimize GPU memory allocation
