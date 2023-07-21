@@ -328,3 +328,4 @@ Robust Activity at 2023-07-21T16:08:24: Improve documentation for API endpoints
 Robust Activity at 2023-07-21T18:45:39: Initial prototype for feature extraction
 Robust Activity at 2023-07-21T18:43:57: Initial prototype for feature extraction
 Robust Activity at 2023-07-21T12:20:35: Add support for transformer-based models
+Robust Activity at 2023-07-21T09:23:22: Fix bug in loss function calculation
