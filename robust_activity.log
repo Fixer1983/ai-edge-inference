@@ -325,3 +325,4 @@ Robust Activity at 2023-07-20T14:46:57: Optimize GPU memory allocation
 Robust Activity at 2023-07-20T11:25:33: Add unit tests for core modules
 Robust Activity at 2023-07-21T13:01:06: Add support for transformer-based models
 Robust Activity at 2023-07-21T16:08:24: Improve documentation for API endpoints
+Robust Activity at 2023-07-21T18:45:39: Initial prototype for feature extraction
