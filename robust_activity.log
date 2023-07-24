@@ -330,3 +330,4 @@ Robust Activity at 2023-07-21T18:43:57: Initial prototype for feature extraction
 Robust Activity at 2023-07-21T12:20:35: Add support for transformer-based models
 Robust Activity at 2023-07-21T09:23:22: Fix bug in loss function calculation
 Robust Activity at 2023-07-24T11:00:08: Fix race condition in data pipeline
+Robust Activity at 2023-07-24T13:55:54: Add unit tests for core modules
