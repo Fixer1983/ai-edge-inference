@@ -348,3 +348,4 @@ Robust Activity at 2023-08-08T09:56:39: Improve model serialization and loading
 Robust Activity at 2023-08-08T14:29:22: Optimize GPU memory allocation
 Robust Activity at 2023-08-10T09:01:08: Address code review feedback
 Robust Activity at 2023-08-10T12:49:21: Improve documentation for API endpoints
+Robust Activity at 2023-08-10T09:02:33: Add unit tests for core modules
