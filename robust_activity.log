@@ -515,3 +515,4 @@ Robust Activity at 2023-11-08T09:32:18: Update dependencies to latest stable ver
 Robust Activity at 2023-11-08T18:48:01: Refactor data loader for faster training
 Robust Activity at 2023-11-08T15:08:57: Implement early stopping in training loop
 Robust Activity at 2023-11-10T17:07:23: Add unit tests for core modules
+Robust Activity at 2023-11-10T13:10:50: Benchmark inference latency across devices
