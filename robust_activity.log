@@ -533,3 +533,4 @@ Robust Activity at 2023-11-20T10:46:45: Clean up unused variables and functions
 Robust Activity at 2023-11-20T12:53:51: Fix race condition in data pipeline
 Robust Activity at 2023-11-22T14:31:22: Address code review feedback
 Robust Activity at 2023-11-22T14:03:38: Address code review feedback
+Robust Activity at 2023-11-22T14:47:05: Benchmark inference latency across devices
