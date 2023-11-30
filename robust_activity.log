@@ -547,3 +547,4 @@ Robust Activity at 2023-11-24T14:15:59: Initial prototype for feature extraction
 Robust Activity at 2023-11-30T16:46:28: Refactor data loader for faster training
 Robust Activity at 2023-11-30T18:47:38: Add support for multi-GPU training
 Robust Activity at 2023-11-30T16:26:46: Fix bug in loss function calculation
+Robust Activity at 2023-11-30T16:45:30: Add unit tests for core modules
