@@ -565,3 +565,4 @@ Robust Activity at 2023-12-19T13:02:53: Address code review feedback
 Robust Activity at 2023-12-19T15:32:12: Refactor data loader for faster training
 Robust Activity at 2023-12-19T14:58:41: Refactor data loader for faster training
 Robust Activity at 2023-12-21T11:58:45: Clean up unused variables and functions
+Robust Activity at 2023-12-21T18:44:48: Optimize GPU memory allocation
