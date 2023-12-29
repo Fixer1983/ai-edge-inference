@@ -578,3 +578,4 @@ Robust Activity at 2023-12-28T18:48:50: Update dependencies to latest stable ver
 Robust Activity at 2023-12-28T12:48:17: Initial prototype for feature extraction
 Robust Activity at 2023-12-28T09:26:00: Fix bug in loss function calculation
 Robust Activity at 2023-12-28T16:01:01: Initial prototype for feature extraction
+Robust Activity at 2023-12-29T16:40:14: Implement early stopping in training loop
