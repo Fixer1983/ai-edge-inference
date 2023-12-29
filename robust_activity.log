@@ -581,3 +581,4 @@ Robust Activity at 2023-12-28T16:01:01: Initial prototype for feature extraction
 Robust Activity at 2023-12-29T16:40:14: Implement early stopping in training loop
 Robust Activity at 2023-12-29T18:12:39: Fix bug in loss function calculation
 Robust Activity at 2023-12-29T13:48:09: Optimize neural network architecture
+Robust Activity at 2023-12-29T14:42:22: Add support for transformer-based models
