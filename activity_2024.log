@@ -20,3 +20,4 @@
 2024 Activity at 2024-01-09T14:24:55: Merge feature branch into main for the next release
 2024 Activity at 2024-01-09T13:06:56: Optimize GPU memory allocation for large models
 2024 Activity at 2024-01-09T09:57:59: Add support for transformer-based models in inference
+2024 Activity at 2024-01-09T15:04:29: Clean up unused variables and deprecated functions
