@@ -32,3 +32,4 @@
 2024 Activity at 2024-01-10T17:45:44: Address code review feedback from the senior team
 2024 Activity at 2024-01-10T13:27:09: Add support for transformer-based models in inference
 2024 Activity at 2024-01-10T19:42:25: Update README with latest performance benchmarks
+2024 Activity at 2024-01-10T17:07:00: Optimize GPU memory allocation for large models
