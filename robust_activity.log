@@ -649,3 +649,4 @@ Robust Activity at 2024-01-31T12:13:02: Fix bug in loss function calculation
 Robust Activity at 2024-02-05T10:05:39: Initial prototype for feature extraction
 Robust Activity at 2024-02-05T12:43:20: Refactor data loader for faster training
 Robust Activity at 2024-02-05T18:11:11: Improve documentation for API endpoints
+Robust Activity at 2024-02-05T15:55:08: Benchmark inference latency across devices
