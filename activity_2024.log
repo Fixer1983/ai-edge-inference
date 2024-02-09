@@ -114,3 +114,4 @@
 2024 Activity at 2024-02-09T10:42:56: Optimize GPU memory allocation for large models
 2024 Activity at 2024-02-09T12:01:37: Implement early stopping logic in the training loop
 2024 Activity at 2024-02-09T17:22:19: Initial prototype for feature extraction in real-time
+2024 Activity at 2024-02-09T18:22:24: Add support for transformer-based models in inference
