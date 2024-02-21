@@ -677,3 +677,4 @@ Robust Activity at 2024-02-16T15:31:49: Update README with new performance metri
 Robust Activity at 2024-02-21T17:38:30: Fix bug in loss function calculation
 Robust Activity at 2024-02-21T10:37:10: Improve documentation for API endpoints
 Robust Activity at 2024-02-21T18:09:54: Clean up unused variables and functions
+Robust Activity at 2024-02-21T09:24:12: Optimize GPU memory allocation
