@@ -155,3 +155,4 @@
 2024 Activity at 2024-02-26T13:32:12: Implement early stopping logic in the training loop
 2024 Activity at 2024-02-26T19:02:33: Enhance logging for debugging production-level issues
 2024 Activity at 2024-02-26T15:16:16: Improve documentation for REST API endpoints
+2024 Activity at 2024-02-26T12:18:26: Add support for multi-GPU training via DDP
