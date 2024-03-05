@@ -704,3 +704,4 @@ Robust Activity at 2024-03-04T14:47:25: Fix race condition in data pipeline
 Robust Activity at 2024-03-05T17:09:58: Add support for transformer-based models
 Robust Activity at 2024-03-05T11:33:03: Update dependencies to latest stable versions
 Robust Activity at 2024-03-05T10:43:08: Enhance logging for debugging production issues
+Robust Activity at 2024-03-05T12:06:16: Benchmark inference latency across devices
