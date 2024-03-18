@@ -224,3 +224,4 @@
 2024 Activity at 2024-03-18T13:40:40: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-03-18T16:01:34: Refactor data loading pipeline for higher throughput
 2024 Activity at 2024-03-18T19:40:05: Add support for multi-GPU training via DDP
+2024 Activity at 2024-03-18T16:32:18: Add support for transformer-based models in inference
