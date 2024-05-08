@@ -807,3 +807,4 @@ Robust Activity at 2024-05-06T18:25:20: Benchmark inference latency across devic
 Robust Activity at 2024-05-06T17:08:04: Add support for multi-GPU training
 Robust Activity at 2024-05-06T12:30:01: Add support for multi-GPU training
 Robust Activity at 2024-05-06T14:05:16: Clean up unused variables and functions
+Robust Activity at 2024-05-08T18:43:51: Update README with new performance metrics
