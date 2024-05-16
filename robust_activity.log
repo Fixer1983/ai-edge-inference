@@ -824,3 +824,4 @@ Robust Activity at 2024-05-15T13:05:56: Improve documentation for API endpoints
 Robust Activity at 2024-05-15T18:48:55: Optimize GPU memory allocation
 Robust Activity at 2024-05-16T17:11:54: Implement early stopping in training loop
 Robust Activity at 2024-05-16T12:10:20: Add support for transformer-based models
+Robust Activity at 2024-05-16T14:36:47: Add unit tests for core modules
