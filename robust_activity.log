@@ -874,3 +874,4 @@ Robust Activity at 2024-06-11T16:51:50: Optimize GPU memory allocation
 Robust Activity at 2024-06-11T15:54:22: Add support for transformer-based models
 Robust Activity at 2024-06-11T10:15:26: Add support for transformer-based models
 Robust Activity at 2024-06-17T10:48:00: Clean up unused variables and functions
+Robust Activity at 2024-06-17T16:33:02: Add unit tests for core modules
