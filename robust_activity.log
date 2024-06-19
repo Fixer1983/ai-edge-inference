@@ -877,3 +877,4 @@ Robust Activity at 2024-06-17T10:48:00: Clean up unused variables and functions
 Robust Activity at 2024-06-17T16:33:02: Add unit tests for core modules
 Robust Activity at 2024-06-17T12:37:14: Improve model serialization and loading
 Robust Activity at 2024-06-19T18:30:40: Implement early stopping in training loop
+Robust Activity at 2024-06-19T13:43:01: Improve model serialization and loading
