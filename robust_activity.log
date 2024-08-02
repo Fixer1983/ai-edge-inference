@@ -949,3 +949,4 @@ Robust Activity at 2024-08-02T10:16:48: Update dependencies to latest stable ver
 Robust Activity at 2024-08-02T09:17:14: Add support for transformer-based models
 Robust Activity at 2024-08-02T10:18:53: Merge feature branch into main
 Robust Activity at 2024-08-02T16:01:34: Address code review feedback
+Robust Activity at 2024-08-02T18:44:17: Implement early stopping in training loop
