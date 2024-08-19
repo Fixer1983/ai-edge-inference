@@ -966,3 +966,4 @@ Robust Activity at 2024-08-12T09:21:08: Fix bug in loss function calculation
 Robust Activity at 2024-08-16T17:47:13: Improve documentation for API endpoints
 Robust Activity at 2024-08-16T14:25:35: Address code review feedback
 Robust Activity at 2024-08-19T18:41:19: Address code review feedback
+Robust Activity at 2024-08-19T10:05:37: Benchmark inference latency across devices
