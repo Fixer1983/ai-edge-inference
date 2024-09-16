@@ -1023,3 +1023,4 @@ Robust Activity at 2024-09-16T11:46:23: Update dependencies to latest stable ver
 Robust Activity at 2024-09-16T14:30:32: Merge feature branch into main
 Robust Activity at 2024-09-16T16:09:09: Fix bug in loss function calculation
 Robust Activity at 2024-09-16T11:27:04: Implement early stopping in training loop
+Robust Activity at 2024-09-16T11:21:13: Add support for transformer-based models
