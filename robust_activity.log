@@ -1048,3 +1048,4 @@ Robust Activity at 2024-09-27T10:52:40: Fix bug in loss function calculation
 Robust Activity at 2024-09-27T13:58:19: Add support for transformer-based models
 Robust Activity at 2024-09-27T13:25:56: Implement early stopping in training loop
 Robust Activity at 2024-09-27T14:00:56: Implement early stopping in training loop
+Robust Activity at 2024-09-30T09:31:45: Benchmark inference latency across devices
