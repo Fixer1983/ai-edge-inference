@@ -1067,3 +1067,4 @@ Robust Activity at 2024-10-09T11:09:06: Update README with new performance metri
 Robust Activity at 2024-10-09T13:16:31: Improve model serialization and loading
 Robust Activity at 2024-10-09T18:52:02: Update README with new performance metrics
 Robust Activity at 2024-10-10T16:26:43: Optimize GPU memory allocation
+Robust Activity at 2024-10-10T15:23:51: Benchmark inference latency across devices
