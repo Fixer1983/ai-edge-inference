@@ -1133,3 +1133,4 @@ Robust Activity at 2024-11-28T11:13:09: Add support for transformer-based models
 Robust Activity at 2024-11-28T14:39:48: Add unit tests for core modules
 Robust Activity at 2024-11-28T16:18:09: Sync with upstream repository changes
 Robust Activity at 2024-11-28T14:43:32: Address code review feedback
+Robust Activity at 2024-11-28T14:59:15: Benchmark inference latency across devices
