@@ -13,3 +13,4 @@
 2025 Activity at 2025-01-07T10:06:40: Update README with 2025 performance benchmarks
 2025 Activity at 2025-01-07T18:05:06: Sync with latest upstream repository updates
 2025 Activity at 2025-01-07T12:12:47: Fix concurrency issue in the data ingestion pipeline
+2025 Activity at 2025-01-07T09:04:21: Benchmark inference throughput on latest hardware
