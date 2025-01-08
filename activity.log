@@ -245,3 +245,4 @@ Activity at 2024-12-31T20:35:43: Improve logging and monitoring in production
 Activity at 2024-12-31T21:23:07: Fix minor bug in data preprocessing script
 Activity at 2024-12-31T12:25:41: Merge pull request from feature branch
 Activity at 2025-01-07T15:07:36: Optimize memory usage in LLM deployment
+Activity at 2025-01-07T21:48:48: Initial research on graph-based RAG
