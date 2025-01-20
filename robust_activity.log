@@ -1193,3 +1193,4 @@ Robust Activity at 2025-01-20T13:09:46: Initial prototype for feature extraction
 Robust Activity at 2025-01-20T10:47:32: Benchmark inference latency across devices
 Robust Activity at 2025-01-20T13:00:42: Refactor data loader for faster training
 Robust Activity at 2025-01-20T11:42:36: Add support for transformer-based models
+Robust Activity at 2025-01-20T12:20:39: Add unit tests for core modules
