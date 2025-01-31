@@ -99,3 +99,4 @@
 2025 Activity at 2025-01-31T14:22:18: Sync with latest upstream repository updates
 2025 Activity at 2025-01-31T16:25:30: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-01-31T14:35:12: Add support for multimodal models in inference engine
+2025 Activity at 2025-01-31T17:56:50: Benchmark inference throughput on latest hardware
