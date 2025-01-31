@@ -100,3 +100,4 @@
 2025 Activity at 2025-01-31T16:25:30: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-01-31T14:35:12: Add support for multimodal models in inference engine
 2025 Activity at 2025-01-31T17:56:50: Benchmark inference throughput on latest hardware
+2025 Activity at 2025-01-31T10:41:28: Add support for distributed training across clusters
