@@ -101,3 +101,4 @@
 2025 Activity at 2025-01-31T14:35:12: Add support for multimodal models in inference engine
 2025 Activity at 2025-01-31T17:56:50: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-01-31T10:41:28: Add support for distributed training across clusters
+2025 Activity at 2025-01-31T13:32:23: Update dependencies to 2025 stable versions
