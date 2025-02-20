@@ -1245,3 +1245,4 @@ Robust Activity at 2025-02-19T17:17:35: Update README with new performance metri
 Robust Activity at 2025-02-19T10:40:36: Implement early stopping in training loop
 Robust Activity at 2025-02-20T17:33:33: Update dependencies to latest stable versions
 Robust Activity at 2025-02-20T15:11:21: Benchmark inference latency across devices
+Robust Activity at 2025-02-20T15:18:13: Add support for multi-GPU training
