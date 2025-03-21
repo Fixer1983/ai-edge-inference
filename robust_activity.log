@@ -1292,3 +1292,4 @@ Robust Activity at 2025-03-18T18:40:28: Benchmark inference latency across devic
 Robust Activity at 2025-03-18T11:56:34: Merge feature branch into main
 Robust Activity at 2025-03-21T09:55:06: Merge feature branch into main
 Robust Activity at 2025-03-21T15:16:24: Update dependencies to latest stable versions
+Robust Activity at 2025-03-21T10:12:23: Add support for transformer-based models
