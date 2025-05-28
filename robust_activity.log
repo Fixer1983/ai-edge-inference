@@ -1400,3 +1400,4 @@ Robust Activity at 2025-05-28T11:39:17: Add support for multi-GPU training
 Robust Activity at 2025-05-28T16:44:43: Add unit tests for core modules
 Robust Activity at 2025-05-28T12:56:27: Address code review feedback
 Robust Activity at 2025-05-28T13:25:23: Add unit tests for core modules
+Robust Activity at 2025-05-28T17:11:39: Clean up unused variables and functions
