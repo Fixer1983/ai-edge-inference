@@ -1440,3 +1440,4 @@ Robust Activity at 2025-06-25T18:59:17: Add support for transformer-based models
 Robust Activity at 2025-06-25T18:30:45: Benchmark inference latency across devices
 Robust Activity at 2025-06-27T11:47:30: Refactor data loader for faster training
 Robust Activity at 2025-06-27T10:24:14: Enhance logging for debugging production issues
+Robust Activity at 2025-06-27T10:30:47: Improve documentation for API endpoints
