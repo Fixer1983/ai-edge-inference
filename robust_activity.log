@@ -1494,3 +1494,4 @@ Robust Activity at 2025-07-29T17:07:26: Fix bug in loss function calculation
 Robust Activity at 2025-07-30T16:38:13: Implement early stopping in training loop
 Robust Activity at 2025-07-30T17:50:09: Add unit tests for core modules
 Robust Activity at 2025-07-30T11:28:47: Address code review feedback
+Robust Activity at 2025-07-30T13:16:08: Clean up unused variables and functions
