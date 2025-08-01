@@ -1498,3 +1498,4 @@ Robust Activity at 2025-07-30T13:16:08: Clean up unused variables and functions
 Robust Activity at 2025-07-30T10:57:13: Initial prototype for feature extraction
 Robust Activity at 2025-07-31T16:58:14: Benchmark inference latency across devices
 Robust Activity at 2025-07-31T14:49:27: Address code review feedback
+Robust Activity at 2025-08-01T18:04:15: Add support for multi-GPU training
