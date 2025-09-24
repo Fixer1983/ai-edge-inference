@@ -1595,3 +1595,4 @@ Robust Activity at 2025-09-23T17:57:47: Add support for multi-GPU training
 Robust Activity at 2025-09-24T15:36:59: Benchmark inference latency across devices
 Robust Activity at 2025-09-24T17:44:10: Clean up unused variables and functions
 Robust Activity at 2025-09-24T17:19:37: Initial prototype for feature extraction
+Robust Activity at 2025-09-24T18:33:31: Add support for transformer-based models
