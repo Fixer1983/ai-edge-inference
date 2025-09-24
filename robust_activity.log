@@ -1592,3 +1592,4 @@ Robust Activity at 2025-09-23T16:30:25: Update README with new performance metri
 Robust Activity at 2025-09-23T10:36:50: Improve model serialization and loading
 Robust Activity at 2025-09-23T11:56:56: Initial prototype for feature extraction
 Robust Activity at 2025-09-23T17:57:47: Add support for multi-GPU training
+Robust Activity at 2025-09-24T15:36:59: Benchmark inference latency across devices
