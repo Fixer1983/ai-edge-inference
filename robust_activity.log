@@ -1732,3 +1732,4 @@ Robust Activity at 2025-12-03T15:29:24: Initial prototype for feature extraction
 Robust Activity at 2025-12-03T16:14:04: Initial prototype for feature extraction
 Robust Activity at 2025-12-04T16:24:08: Update dependencies to latest stable versions
 Robust Activity at 2025-12-04T14:22:18: Fix race condition in data pipeline
+Robust Activity at 2025-12-04T14:23:28: Add support for multi-GPU training
