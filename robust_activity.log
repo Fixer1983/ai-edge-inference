@@ -1741,3 +1741,4 @@ Robust Activity at 2025-12-10T14:37:01: Add support for multi-GPU training
 Robust Activity at 2025-12-10T16:22:40: Merge feature branch into main
 Robust Activity at 2025-12-11T12:03:47: Add unit tests for core modules
 Robust Activity at 2025-12-11T16:25:56: Benchmark inference latency across devices
+Robust Activity at 2025-12-11T15:11:19: Clean up unused variables and functions
