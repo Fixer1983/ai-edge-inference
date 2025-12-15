@@ -1744,3 +1744,4 @@ Robust Activity at 2025-12-11T16:25:56: Benchmark inference latency across devic
 Robust Activity at 2025-12-11T15:11:19: Clean up unused variables and functions
 Robust Activity at 2025-12-12T09:55:54: Implement early stopping in training loop
 Robust Activity at 2025-12-12T14:39:02: Merge feature branch into main
+Robust Activity at 2025-12-15T12:31:53: Update README with new performance metrics
