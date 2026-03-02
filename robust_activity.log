@@ -1859,3 +1859,4 @@ Robust Activity at 2026-02-27T15:59:07: Add support for multi-GPU training
 Robust Activity at 2026-02-27T12:55:20: Initial prototype for feature extraction
 Robust Activity at 2026-02-27T09:00:24: Clean up unused variables and functions
 Robust Activity at 2026-03-02T12:29:30: Benchmark inference latency across devices
+Robust Activity at 2026-03-02T09:56:15: Enhance logging for debugging production issues
