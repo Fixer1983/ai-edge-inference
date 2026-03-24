@@ -1,0 +1,1 @@
+# ai-edge-inference\n\nUltra-fast AI inference engine for edge devices and IoT.\n\n![Rust](https://img.shields.io/badge/language-Rust-brown)\n\n## Build\n```bash\ncargo build --release\n```
